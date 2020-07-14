@@ -1,4 +1,4 @@
-class AddForeignkeyToRides < ActiveRecord::Migration[5.0]
+class CreateJoinTableForRides < ActiveRecord::Migration[5.0]
   def change
   end
 end
